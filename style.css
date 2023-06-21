@@ -25,7 +25,7 @@
 
 }
 .heder-menu ul li a:hover{
-  color: #2fc000;
+  color: #2d2d86;
 }
 .header-icon {
     display: inline-block;
@@ -33,7 +33,7 @@
 .header-icon a {
     display: inline-block;
     font-size: 15px;
-    color: #2fc000;
+    color: #2d2d86;
     font-weight: 400;
 }
 .header-icon a i {
@@ -48,15 +48,15 @@
     font-weight: 400;
     text-transform: uppercase;
     font-family: 'Poppins';
-    border: 1px solid #2fc000;
+    border: 1px solid #2d2d86;
     padding: 10px 16px 10px;
-    color: #2fc000;
+    color: #2d2d86;
     border-radius: 5px;
     transition: .5s;
 }
 .menu-button a:hover{
   color: #010716;
-   background: #2fc000;
+   background: #2d2d86;
 }
 /*<!-- ============================================================== -->
 <!-- Start  slider-area   Css -->
@@ -73,7 +73,7 @@
 }
 .slider-title h3 {
     font-size: 18px;
-    color: #2fc000;
+    color: #2d2d86;
     font-weight: 500;
     text-transform: uppercase;
     font-family: 'Poppins';
@@ -81,7 +81,7 @@
 .slider-title h3 span {
     color: #000616;
     border-radius: 50%;
-    background: #2fc000;
+    background: #2d2d86;
     padding: 0px 10px;
     margin-right: 15px;
 }
@@ -108,14 +108,14 @@
     font-family: 'Poppins';
     text-transform: uppercase;
     color: #010716;
-    background: #2fc000;
+    background: #2d2d86;
     padding: 13px 20px;
     border-radius: 5px;
     float: left;
      z-index: 1;
     position: relative;
     margin-right: 18px;
-    border: 1px solid #2fc000;
+    border: 1px solid #2d2d86;
 }
 .slider-button a::before{
     position: absolute;
@@ -135,8 +135,8 @@
   transform: scale(1);
 }
 .slider-button a:hover{
-  color: #2fc000;
-   border: 1px solid #2fc000;
+  color: #2d2d86;
+   border: 1px solid #2d2d86;
    background: none;
 } 
 .slider-button a i {
@@ -149,8 +149,8 @@
     font-weight: 500;
     font-family: 'Poppins';
     text-transform: uppercase;
-    color: #2fc000;
-    border: 1px solid #2fc000;
+    color: #2d2d86;
+    border: 1px solid #2d2d86;
     padding: 12px 21px;
     border-radius: 5px;
     transition: .5s; 
@@ -176,7 +176,7 @@
 }
 .slider-btn a:hover{
   color: #010716;
-   background: #2fc000;
+   background: #2d2d86;
 }
 .slider-btn a i {
     display: inline-block;
@@ -414,7 +414,7 @@
     font-size: 18px;
     font-weight: 500;
     font-family: poppins;
-    color: #2fc000;
+    color: #2d2d86;
     position: relative;  
 }
 .about-title h4::before {
@@ -424,7 +424,7 @@
     left: 239px;
     height: 2px;
     width: 80px;
-    background: #2fc000;
+    background: #2d2d86;
     margin: 0 auto 0;
 }
 .about-title h4::after {
@@ -434,7 +434,7 @@
     left: 239px;
     height: 2px;
     width: 50px;
-    background: #2fc000;
+    background: #2d2d86;
     margin: 0 auto 0;
 }
 .about-title h2 {
@@ -456,14 +456,14 @@
 .about-num span {
     font-size: 24px;
     padding: 6px 7px;
-    background: #2fc000;
+    background: #2d2d86;
     border-radius: 100%;
     color: #000616;
     float: left;
     font-weight: 600;
     margin: 0 20px 20px 0;
     position: relative;
-    border: 6px solid #2fc000;
+    border: 6px solid #2d2d86;
     font-family: roboto;
 }
 .about-num span::before {
@@ -483,7 +483,7 @@
     width: 2px;
     top: 55px;
     left: 21px;
-    background: #2fc000;
+    background: #2d2d86;
 }
 .about-num.upper span::after {
     position: absolute;
@@ -492,7 +492,7 @@
     width: 2px;
     top: 53px;
     left: 21px;
-    background: #2fc000;
+    background: #2d2d86;
 }
 .about-text h5 {
     font-size: 18px;
@@ -511,7 +511,7 @@
     font-size: 18px;
     font-weight: 500;
     font-family: poppins;
-    color: #2fc000;
+    color: #2d2d86;
     position: relative;  
 }
 .why-choose-us h4::before {
@@ -521,7 +521,7 @@
     left: 155px;
     height: 2px;
     width: 80px;
-    background: #2fc000;
+    background: #2d2d86;
     margin: 0 auto 0;
 }
 .why-choose-us h4::after {
@@ -531,7 +531,7 @@
     left: 155px;
     height: 2px;
     width: 50px;
-    background: #2fc000;
+    background: #2d2d86;
     margin: 0 auto 0;
 }
 .why-choose-us h2 {
@@ -558,10 +558,10 @@
     font-weight: 500;
     text-transform: uppercase;
     color: #010716;
-    background: #2fc000;
+    background: #2d2d86;
     padding: 11px 21px;
     border-radius: 5px;
-    border: 1px solid #2fc000;
+    border: 1px solid #2d2d86;
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -584,8 +584,8 @@
   transform: scale(1);
 }
 .why-choose-us-button a:hover{
-  border: 1px solid #2fc000;
-  color: #2fc000;
+  border: 1px solid #2d2d86;
+  color: #2d2d86;
   background: #000616;
 }
 .why-choose-us-button a i {
@@ -616,7 +616,7 @@
     font-size: 18px;
     font-weight: 500;
     font-family: 'Poppins';
-    color: #2fc000;
+    color: #2d2d86;
     text-transform: uppercase;
     position: relative;
     display: inline-block;
@@ -628,7 +628,7 @@
     left: -85%;
     height: 1px;
     width: 75%;
-    background-image: linear-gradient(to right,  #020A1F , #2fc000);
+    background-image: linear-gradient(to right,  #020A1F , #2d2d86);
 }
 .sub-title h5::after {
      position: absolute;
@@ -637,7 +637,7 @@
     right: -84%;
     height: 1px;
     width: 75%;
-    background-image: linear-gradient(to right, #2fc000 , #020A1F);
+    background-image: linear-gradient(to right, #2d2d86 , #020A1F);
     transition: .5s;
 }
 .main-title h3 {
@@ -678,7 +678,7 @@
     right: 0;
     height: 50px;
     width: 50px;
-    background: #2fc000;
+    background: #2d2d86;
     border-radius: 45px 0 0 0;
     transition: .5s;
     z-index: -1;
@@ -700,7 +700,7 @@
 }
 .service-img {
     font-size: 40px;
-    color: #2fc000;
+    color: #2d2d86;
 }
 .service-title h3 {
     font-size: 22px;
@@ -726,7 +726,7 @@
     display: inline-block;
     font-weight: 500;
     font-family: 'Poppins';
-    color: #2fc000;
+    color: #2d2d86;
 }
 /*<!-- ============================================================== -->
 <!-- Start  token-area  Css -->
@@ -825,7 +825,7 @@ span.dash::before {
 /* SKILL BAR COLORS */
 
 .skill-percent-html {
-    background-color: #2fc000;
+    background-color: #2d2d86;
 }
 .skill-percent-css {
   background-color: #0664AE;
@@ -869,7 +869,7 @@ span.dash::before {
     font-size: 16px;
     font-weight: 400;
     font-family: 'Poppins';
-    color: #2fc000;
+    color: #2d2d86;
     border: 1px solid #191F2F;
     margin-bottom: 10px;
 }
@@ -879,7 +879,7 @@ span.dash::before {
     font-size: 16px;
     font-weight: 400;
     font-family: 'Poppins';
-    color: #2fc000;
+    color: #2d2d86;
     margin-bottom: 10px;
     padding: 5px 12px;
     height: 31px;
@@ -1029,10 +1029,10 @@ span.dash::before {
     transform: rotate(45deg);
 }
 .road-map-box:hover{
-  border: 1px solid #2fc000;
+  border: 1px solid #2d2d86;
 }
 .road-map-box:hover::before{
-  background: #2fc000;
+  background: #2d2d86;
 }
 .road-map-box.upper::before {
     position: absolute;
@@ -1046,7 +1046,7 @@ span.dash::before {
     transform: rotate(45deg);
 }
 .road-map-box.upper:hover::before{
-  background: #2fc000;
+  background: #2d2d86;
 }
 .row.map {
     position: relative;
@@ -1068,7 +1068,7 @@ span.dash::before {
     font-size: 14px;
     font-weight: 300;
     font-family: 'Poppins';
-    color: #2fc000;
+    color: #2d2d86;
     text-transform: capitalize;
 }
 .road-map-title p {
@@ -1109,17 +1109,17 @@ span.dash::before {
 
 }
 .road-map-button a:hover{
-  border: 1px solid #2fc000;
+  border: 1px solid #2d2d86;
   border-radius: 5px;
 }
 .road-map-button a:hover::before{
-  background: #2fc000;
+  background: #2d2d86;
 }
 .road-maps-button a:hover{
-  border: 1px solid #2fc000;
+  border: 1px solid #2d2d86;
 }
 .road-maps-button a:hover::before{
-  background: #2fc000;
+  background: #2d2d86;
 }
 .road-maps-button a {
     font-size: 16px;
@@ -1176,7 +1176,7 @@ span.dash::before {
 }
 .team-title {
     text-align: center;
-    background: #2fc000;
+    background: #2d2d86;
     border-radius: 5px;
     padding: 24px 0 13px;
     position: relative;
@@ -1205,7 +1205,7 @@ span.dash::before {
 }
 .team-icon ul {
     display: inline-block;
-    background: #2fc000;
+    background: #2d2d86;
     border-radius: 5px;
 }
 .team-icon ul li {
@@ -1285,7 +1285,7 @@ span.dash::before {
     margin-bottom: 30px;
 }
 .faq-area .accordion li a.active {
-    color: #2fc000;
+    color: #2d2d86;
     margin: 0 0 0 10px;
     border-radius: 5px;
 }
@@ -1403,17 +1403,17 @@ span.dash::before {
 .faq-area .form-button button {
     padding: 10px 30px;
     display: inline-block;
-    background: #2fc000;
+    background: #2d2d86;
     color: #000616;
     text-transform: uppercase;
     border-radius: 5px;
     transition: .5s;
-    border: 1px solid #2fc000;
+    border: 1px solid #2d2d86;
     font-weight: 500;
 }
 .faq-area .form-button button:hover {
     background: none;
-    color: #2fc000;
+    color: #2d2d86;
 }
 /*<!-- ============================================================== -->
 <!-- Start  footer-area   Css -->
@@ -1465,7 +1465,7 @@ span.dash::before {
     transition: .5s;
 }
 .footer-icon ul li a:hover{
-  color: #2fc000;
+  color: #2d2d86;
 }
 .footer-ico ul li a {
     display: inline-block;
@@ -1487,10 +1487,10 @@ span.dash::before {
     z-index: -1;
 }
 .footer-ico ul li a:hover{
-  color: #2fc000;
+  color: #2d2d86;
 }
 .footer-ico ul li a:hover::before{
-  background: #2fc000;
+  background: #2d2d86;
 }
 
 .footer-title h2 {
@@ -1542,7 +1542,7 @@ span.dash::before {
     right: 0;
 }
 .footer-area .form-button button {
-    background: #2fc000;
+    background: #2d2d86;
     color: #333;
     font-weight: 600;
     font-size: 16px;
@@ -1696,7 +1696,7 @@ span.dash::before {
 .search-box-btn.search-box-outer i {
     display: inline-block;
     cursor: pointer;
-    color: #2fc000;
+    color: #2d2d86;
     padding: 0 15px 0 0;
 }
 .sticky-nav .search-box-btn.search-box-outer i {
@@ -1711,7 +1711,7 @@ span.dash::before {
     margin-top: -200px;
     border-radius: 50%;
     text-align: center;
-    background-color: #2fc000;
+    background-color: #2d2d86;
     width: 70px;
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -1802,7 +1802,7 @@ span.dash::before {
 
 .search-popup .close-search.style-two i {
     font-size: 20px;
-    color: #2fc000;
+    color: #2d2d86;
 }
 .search-popup .form-group input[type="text"],
 .search-popup .form-group input[type="search"]{
@@ -1963,7 +1963,7 @@ span.dash::before {
     top: 3px;
     z-index: 1;
     background-image: -moz-linear-gradient(0deg, #d1651a 0%, #c1282a 100%);
-    background: #2fc000;
+    background: #2d2d86;
     background-image: -ms-linear-gradient(0deg, #d1651a 0%, #c1282a 100%);
 }
 .top-wrap .go-top-button i {
